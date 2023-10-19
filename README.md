@@ -10,10 +10,7 @@ It's built using HTML, CSS, and JavaScript to provide a seamless user experience
 - Interactive Design: User-friendly interface with smooth animations and responsive design for various devices.
 
 - Embedded Videos: Watch videos directly on the web page without redirecting to YouTube.
-
-## Demo
-
-Check out the live demo of the YouTube Projects Web Page: file:///C:/Users/Lenovo/Desktop/finalprojects/Youtubeproject/youtubewebsite.html
+- 
 
 ## Technologies Used
 
