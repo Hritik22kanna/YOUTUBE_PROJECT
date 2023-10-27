@@ -1,6 +1,6 @@
 # YouTube Projects Web Page
 
-Welcome to my YouTube Projects Web Page! This interactive web page showcases my YouTube projects and videos in an engaging way.
+Welcome to my YouTube Project Web Page! This interactive web page showcases YouTube project and videos in an engaging way.
 It's built using HTML, CSS, and JavaScript to provide a seamless user experience.
 
 # Features
